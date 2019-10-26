@@ -1,0 +1,12 @@
+Latitude: -7.95984396
+Longitude: 112.61491451
+User-Agent: Mozilla/5.0 (Linux; U; Android 9; id-id; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/11.1.7-g
+Altitude: 516.117431640625
+Accuracy: 5.360000133514404
+Speed: 0
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 4
+Screen Height: 786
+Screen Width: 393
